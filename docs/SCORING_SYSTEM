@@ -1,0 +1,587 @@
+# SCORING_SYSTEM
+
+## Objective
+
+Provide a standardized scoring framework for evaluating products, markets, opportunities, offers, hypotheses, creatives and strategic decisions.
+
+Creative Strategist AI never makes subjective decisions.
+
+Every recommendation must be supported by a scoring model.
+
+---
+
+# Core Principle
+
+What gets scored can be prioritized.
+
+What gets prioritized gets executed.
+
+Everything must compete for attention.
+
+Nothing receives priority automatically.
+
+---
+
+# Scoring Scale
+
+Use a scale from 1 to 10.
+
+1–3
+
+Very Weak
+
+4–6
+
+Acceptable
+
+7–8
+
+Strong
+
+9–10
+
+Exceptional
+
+Never use scores without justification.
+
+---
+
+# Product Score
+
+Evaluate:
+
+Problem Severity
+
+Transformation Potential
+
+Differentiation
+
+Trust Potential
+
+Market Fit
+
+Buying Frequency
+
+Average Order Value
+
+Upsell Potential
+
+Scalability
+
+Long-Term Opportunity
+
+Calculate:
+
+Product Score
+
+---
+
+# Market Score
+
+Evaluate:
+
+Market Size
+
+Growth
+
+Competition
+
+Buying Intent
+
+Demand Stability
+
+Creative Opportunity
+
+Entry Difficulty
+
+Regulatory Risk
+
+Trend Strength
+
+Expansion Potential
+
+Calculate:
+
+Market Score
+
+---
+
+# Avatar Score
+
+Evaluate:
+
+Pain Intensity
+
+Urgency
+
+Buying Intent
+
+Awareness
+
+Trust
+
+Decision Speed
+
+Lifetime Value
+
+Referral Potential
+
+Price Sensitivity
+
+Scalability
+
+Calculate:
+
+Avatar Score
+
+---
+
+# Positioning Score
+
+Evaluate:
+
+Clarity
+
+Believability
+
+Differentiation
+
+Commercial Value
+
+Memorability
+
+Trust
+
+Defensibility
+
+Uniqueness
+
+Mechanism Strength
+
+Category Ownership
+
+Calculate:
+
+Positioning Score
+
+---
+
+# Offer Score
+
+Evaluate:
+
+Perceived Value
+
+Price Fairness
+
+Risk Reduction
+
+Urgency
+
+Differentiation
+
+Convenience
+
+Profitability
+
+Trust
+
+Scalability
+
+Purchase Simplicity
+
+Calculate:
+
+Offer Score
+
+---
+
+# Hook Score
+
+Evaluate:
+
+Attention
+
+Curiosity
+
+Emotion
+
+Specificity
+
+Trust
+
+Commercial Intent
+
+Platform Fit
+
+Originality
+
+Scalability
+
+Testing Priority
+
+Calculate:
+
+Hook Score
+
+---
+
+# Angle Score
+
+Evaluate:
+
+Novelty
+
+Commercial Value
+
+Creative Potential
+
+Trust
+
+Emotional Strength
+
+Differentiation
+
+Scalability
+
+Ease of Execution
+
+Buying Intent
+
+Longevity
+
+Calculate:
+
+Angle Score
+
+---
+
+# Hypothesis Score
+
+Evaluate:
+
+Commercial Impact
+
+Learning Value
+
+Confidence
+
+Ease of Validation
+
+Cost
+
+Execution Speed
+
+Creative Potential
+
+Scalability
+
+Risk
+
+Strategic Importance
+
+Calculate:
+
+Hypothesis Score
+
+---
+
+# Creative Score
+
+Evaluate:
+
+Hook Quality
+
+Visual Potential
+
+Trust Elements
+
+Clarity
+
+Emotional Impact
+
+Scroll Stopping Power
+
+Buying Intent
+
+Offer Integration
+
+Platform Fit
+
+Production Simplicity
+
+Calculate:
+
+Creative Score
+
+---
+
+# Test Score
+
+Evaluate:
+
+Learning Generated
+
+Execution Quality
+
+Data Quality
+
+Statistical Confidence
+
+Commercial Impact
+
+Repeatability
+
+Cost Efficiency
+
+Scalability
+
+Decision Quality
+
+Knowledge Contribution
+
+Calculate:
+
+Test Score
+
+---
+
+# Opportunity Score
+
+Evaluate:
+
+Market Size
+
+Urgency
+
+Competition
+
+Differentiation
+
+Creative Potential
+
+Buying Intent
+
+Profitability
+
+Scalability
+
+Speed to Market
+
+Strategic Fit
+
+Calculate:
+
+Opportunity Score
+
+---
+
+# Overall Strategic Score
+
+Weight each category.
+
+Product
+
+15%
+
+Market
+
+15%
+
+Avatar
+
+10%
+
+Positioning
+
+15%
+
+Offer
+
+10%
+
+Opportunity
+
+10%
+
+Hook
+
+5%
+
+Angle
+
+5%
+
+Hypothesis
+
+5%
+
+Creative
+
+5%
+
+Testing
+
+5%
+
+Decision Confidence
+
+5%
+
+Calculate:
+
+Overall Strategic Score
+
+---
+
+# Decision Thresholds
+
+90–100
+
+Execute Immediately
+
+80–89
+
+High Priority
+
+70–79
+
+Validate First
+
+60–69
+
+Needs Improvement
+
+Below 60
+
+Reject
+
+---
+
+# Ranking Rules
+
+Always rank:
+
+Products
+
+Markets
+
+Avatars
+
+Offers
+
+Hooks
+
+Angles
+
+Hypotheses
+
+Creatives
+
+Tests
+
+Opportunities
+
+Highest score always receives execution priority.
+
+---
+
+# Tie Breakers
+
+If two items receive the same score prioritize:
+
+Higher Buying Intent
+
+↓
+
+Higher Learning Value
+
+↓
+
+Lower Execution Cost
+
+↓
+
+Higher Scalability
+
+↓
+
+Higher Trust
+
+---
+
+# Output Template
+
+For every evaluation provide:
+
+Category
+
+Individual Scores
+
+Weighted Score
+
+Overall Score
+
+Priority
+
+Recommendation
+
+Reason
+
+Next Action
+
+---
+
+# Validation Checklist
+
+☐ Every criterion scored
+
+☐ Every score justified
+
+☐ Weighted score calculated
+
+☐ Priority assigned
+
+☐ Recommendation generated
+
+☐ Next action defined
+
+---
+
+# Failure Conditions
+
+Reject the evaluation if:
+
+Scores are arbitrary.
+
+No weighting exists.
+
+No justification exists.
+
+No recommendation exists.
+
+No prioritization exists.
+
+Continue evaluating until every condition is satisfied.
+
+---
+
+# Success Criteria
+
+A successful scoring system allows Creative Strategist AI to answer:
+
+Which opportunity should be executed first?
+
+Which hypothesis deserves budget?
+
+Which offer should be tested?
+
+Which avatar has the highest commercial value?
+
+Which positioning is strongest?
+
+Which creative deserves production?
+
+Which market should be entered?
+
+Every decision must be supported by a measurable score.
