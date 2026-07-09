@@ -1,0 +1,453 @@
+# TESTING_SYSTEM
+
+## Objective
+
+Design repeatable experimentation systems that maximize learning while minimizing wasted advertising budget.
+
+Creative Strategist AI never tests creatives.
+
+It tests hypotheses.
+
+Every experiment must reduce uncertainty.
+
+---
+
+# Core Principle
+
+The objective of testing is not finding winners.
+
+The objective is discovering repeatable patterns.
+
+Every test must generate knowledge.
+
+Every knowledge point must improve future decisions.
+
+---
+
+# Testing Flow
+
+Research
+
+↓
+
+Hypothesis
+
+↓
+
+Experiment
+
+↓
+
+Measurement
+
+↓
+
+Learning
+
+↓
+
+Decision
+
+↓
+
+Iteration
+
+↓
+
+Scale
+
+Never skip a phase.
+
+---
+
+# Phase 1 — Test Objective
+
+Every test begins with one objective.
+
+Possible objectives:
+
+Validate Avatar
+
+Validate Hook
+
+Validate Positioning
+
+Validate Offer
+
+Validate Mechanism
+
+Validate Creative Format
+
+Validate Messaging
+
+Validate CTA
+
+Validate Pricing
+
+Never combine multiple objectives.
+
+---
+
+# Phase 2 — Variable Selection
+
+Only one strategic variable changes.
+
+Possible variables:
+
+Avatar
+
+Hook
+
+Offer
+
+Creative Format
+
+Visual Style
+
+Mechanism
+
+CTA
+
+Headline
+
+Landing Page
+
+Everything else remains constant.
+
+---
+
+# Phase 3 — Test Design
+
+Define:
+
+Hypothesis
+
+Independent Variable
+
+Controlled Variables
+
+Expected Result
+
+Success Criteria
+
+Failure Criteria
+
+Budget
+
+Duration
+
+Stopping Rule
+
+Output
+
+Experiment Blueprint
+
+---
+
+# Phase 4 — Success Metrics
+
+Choose primary KPI.
+
+Possible KPIs:
+
+CTR
+
+CPC
+
+CPM
+
+CPA
+
+Conversion Rate
+
+ROAS
+
+Average Order Value
+
+Revenue
+
+Profit
+
+Customer Acquisition Cost
+
+Choose one primary KPI.
+
+Secondary KPIs support analysis.
+
+---
+
+# Phase 5 — Budget Allocation
+
+Assign:
+
+Testing Budget
+
+Maximum Loss
+
+Scaling Threshold
+
+Kill Threshold
+
+Re-Test Threshold
+
+Learning Threshold
+
+Budget must always protect capital.
+
+---
+
+# Phase 6 — Execution Rules
+
+Never modify campaigns during testing.
+
+Do not change:
+
+Audience
+
+Budget
+
+Creative
+
+Offer
+
+Optimization
+
+Unless the stopping rule is reached.
+
+Maintain consistency.
+
+---
+
+# Phase 7 — Result Analysis
+
+Measure:
+
+Performance
+
+Variance
+
+Unexpected Behavior
+
+Audience Feedback
+
+Comments
+
+CTR
+
+CPA
+
+ROAS
+
+Profitability
+
+Output
+
+Performance Report
+
+---
+
+# Phase 8 — Learning Extraction
+
+Every experiment must produce:
+
+What happened?
+
+Why?
+
+What surprised us?
+
+What assumptions were wrong?
+
+What should be tested next?
+
+Output
+
+Learning Report
+
+---
+
+# Phase 9 — Decision Engine
+
+Possible outcomes:
+
+Scale
+
+Duplicate
+
+Iterate
+
+Retest
+
+Pause
+
+Kill
+
+Archive
+
+Every decision requires written justification.
+
+---
+
+# Phase 10 — Knowledge Capture
+
+Save:
+
+Winning Hook
+
+Winning Avatar
+
+Winning Offer
+
+Winning Creative
+
+Winning Positioning
+
+Failed Assumptions
+
+New Insights
+
+Future Opportunities
+
+Output
+
+Knowledge Base Update
+
+---
+
+# Testing Score
+
+Evaluate every experiment.
+
+Learning Value
+
+Commercial Value
+
+Execution Quality
+
+Statistical Confidence
+
+Scalability
+
+Repeatability
+
+Profitability
+
+Rank from 1–10.
+
+---
+
+# Testing Template
+
+Test Name
+
+Objective
+
+Hypothesis
+
+Variable
+
+Budget
+
+Duration
+
+Primary KPI
+
+Secondary KPIs
+
+Expected Result
+
+Actual Result
+
+Learning
+
+Decision
+
+Next Test
+
+---
+
+# Mandatory Deliverables
+
+Experiment Blueprint
+
+Success Metrics
+
+Budget Rules
+
+Execution Plan
+
+Performance Report
+
+Learning Report
+
+Decision
+
+Knowledge Update
+
+Next Experiment
+
+---
+
+# Validation Checklist
+
+☐ One objective
+
+☐ One variable
+
+☐ Success metric defined
+
+☐ Budget defined
+
+☐ Stopping rule defined
+
+☐ Learning objective defined
+
+☐ Decision criteria defined
+
+☐ Knowledge captured
+
+---
+
+# Failure Conditions
+
+Reject the experiment if:
+
+Multiple strategic variables change.
+
+No hypothesis exists.
+
+No measurable KPI exists.
+
+No stopping rule exists.
+
+No learning objective exists.
+
+No decision criteria exists.
+
+No knowledge capture exists.
+
+Continue redesigning until every condition is satisfied.
+
+---
+
+# Success Criteria
+
+A successful testing system allows Creative Strategist AI to answer:
+
+What are we validating?
+
+What are we measuring?
+
+How much are we risking?
+
+What will we learn?
+
+When do we stop?
+
+When do we scale?
+
+When do we kill the test?
+
+How does this improve future decisions?
+
+Only then can a test be executed.
