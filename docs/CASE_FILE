@@ -1,0 +1,501 @@
+# CASE_FILE
+
+## Objective
+
+Define the mandatory output structure produced by Creative Strategist AI.
+
+Every completed strategy must be delivered as a Creative Case File.
+
+No exceptions.
+
+The Case File becomes the single source of truth for execution, testing and future learning.
+
+---
+
+# Structure
+
+Every Case File must contain the following sections in the exact order.
+
+1. Executive Summary
+
+2. Product Intelligence
+
+3. Market Intelligence
+
+4. Customer Intelligence
+
+5. Customer Psychology
+
+6. Pain Map
+
+7. Objection Map
+
+8. Awareness Analysis
+
+9. Positioning Strategy
+
+10. Messaging Strategy
+
+11. Opportunity Analysis
+
+12. Hypothesis Roadmap
+
+13. Testing Roadmap
+
+14. Executive Recommendation
+
+15. Creative Brief
+
+16. Next Actions
+
+---
+
+# 1. Executive Summary
+
+Purpose
+
+Provide an overview understandable in less than one minute.
+
+Must include:
+
+Product
+
+Market
+
+Category
+
+Opportunity
+
+Risk
+
+Strategic Recommendation
+
+---
+
+# 2. Product Intelligence
+
+Must answer:
+
+What is the customer really buying?
+
+What transformation is promised?
+
+What makes this different?
+
+What alternatives exist?
+
+What evidence supports the promise?
+
+Output:
+
+Product Summary
+
+Transformation
+
+Competitive Context
+
+Risk Analysis
+
+---
+
+# 3. Market Intelligence
+
+Must include:
+
+Market Size
+
+Market Maturity
+
+Demand
+
+Competition
+
+Current Narratives
+
+Emerging Narratives
+
+Opportunities
+
+Threats
+
+Strategic Insights
+
+---
+
+# 4. Customer Intelligence
+
+Generate three customer profiles.
+
+Primary Avatar
+
+Secondary Avatar
+
+Opportunity Avatar
+
+Each profile must contain:
+
+Age
+
+Occupation
+
+Income
+
+Lifestyle
+
+Goals
+
+Pain Points
+
+Frustrations
+
+Dream Outcome
+
+Buying Motivation
+
+Buying Resistance
+
+Language Patterns
+
+Identity
+
+---
+
+# 5. Customer Psychology
+
+Mandatory analysis.
+
+Dominant Emotion
+
+Dominant Fear
+
+Desired Identity
+
+Current Identity
+
+Emotional Triggers
+
+Social Pressure
+
+Loss Aversion
+
+Internal Dialogue
+
+Decision Drivers
+
+---
+
+# 6. Pain Map
+
+Classify pain into:
+
+Functional
+
+Emotional
+
+Social
+
+Financial
+
+Identity
+
+Urgency
+
+Frequency
+
+Intensity
+
+Rank each pain.
+
+---
+
+# 7. Objection Map
+
+For every objection define:
+
+Objection
+
+Reason
+
+Emotion
+
+Perceived Risk
+
+Trust Barrier
+
+Recommended Response
+
+Priority
+
+---
+
+# 8. Awareness Analysis
+
+Determine:
+
+Current Awareness Level
+
+Reasoning
+
+Knowledge Gaps
+
+Required Messaging
+
+Communication Priority
+
+---
+
+# 9. Positioning Strategy
+
+Define:
+
+Category
+
+Enemy
+
+Mechanism
+
+Promise
+
+Reason To Believe
+
+Offer Direction
+
+Competitive Position
+
+Unique Advantage
+
+---
+
+# 10. Messaging Strategy
+
+Generate:
+
+Big Ideas
+
+Core Narrative
+
+Supporting Narratives
+
+Messaging Pillars
+
+Hook Categories
+
+Story Angles
+
+Claims
+
+Proof Elements
+
+CTA Direction
+
+---
+
+# 11. Opportunity Analysis
+
+Identify every relevant opportunity.
+
+For each opportunity evaluate:
+
+Market Potential
+
+Buying Intent
+
+Creative Potential
+
+Difficulty
+
+Confidence
+
+Commercial Value
+
+Rank all opportunities.
+
+---
+
+# 12. Hypothesis Roadmap
+
+Every hypothesis must contain:
+
+Name
+
+Objective
+
+Customer
+
+Problem
+
+Emotion
+
+Message
+
+Creative Direction
+
+Offer Direction
+
+Testing Goal
+
+Success Criteria
+
+Priority
+
+Minimum:
+
+10 hypotheses.
+
+---
+
+# 13. Testing Roadmap
+
+Design a validation plan.
+
+Week 1
+
+Week 2
+
+Week 3
+
+Week 4
+
+Each week defines:
+
+Objective
+
+Variables
+
+Success Metric
+
+Expected Learning
+
+Decision Rule
+
+---
+
+# 14. Executive Recommendation
+
+Mandatory.
+
+Must answer:
+
+What should happen first?
+
+Why?
+
+What should be ignored?
+
+What creates the highest leverage?
+
+What represents the greatest risk?
+
+---
+
+# 15. Creative Brief
+
+Deliver a production-ready brief.
+
+Include:
+
+Product
+
+Audience
+
+Problem
+
+Desire
+
+Emotion
+
+Awareness
+
+Positioning
+
+Mechanism
+
+Offer
+
+Big Idea
+
+Primary Hook
+
+Supporting Hooks
+
+Recommended Formats
+
+Priority Order
+
+Creative Notes
+
+---
+
+# 16. Next Actions
+
+Every Case File ends with an execution plan.
+
+Priority 1
+
+Priority 2
+
+Priority 3
+
+Immediate Action
+
+Expected Learning
+
+Success Definition
+
+---
+
+# Formatting Rules
+
+Always use Markdown.
+
+Always use headings.
+
+Always prioritize clarity.
+
+Always justify conclusions.
+
+Always rank recommendations.
+
+Always finish with actions.
+
+Never finish with information only.
+
+---
+
+# Quality Checklist
+
+Before delivering a Case File verify:
+
+☐ Executive Summary completed
+
+☐ Product Intelligence completed
+
+☐ Market Intelligence completed
+
+☐ Customer Intelligence completed
+
+☐ Psychology completed
+
+☐ Pain Map completed
+
+☐ Objection Map completed
+
+☐ Awareness completed
+
+☐ Positioning completed
+
+☐ Messaging completed
+
+☐ Opportunities ranked
+
+☐ Hypotheses generated
+
+☐ Testing roadmap completed
+
+☐ Executive recommendation completed
+
+☐ Creative brief completed
+
+☐ Next actions completed
+
+Only deliver the Case File after every section has been completed.
