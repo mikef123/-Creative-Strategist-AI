@@ -1,20 +1,20 @@
-# WINNING ANGLES KNOWLEDGE BASE
+# CUSTOMER OBJECTIONS KNOWLEDGE BASE
 
 ## Objective
 
-Store, classify and continuously improve high-performing marketing angles.
+Build a permanent repository of customer objections, skepticism patterns and trust barriers.
 
-Creative Strategist AI must consult this knowledge base before recommending messaging, creatives or testing priorities.
+Creative Strategist AI must consult this knowledge base before generating offers, positioning, messaging, hooks or creatives.
 
-Angles are strategic assets.
+The objective is not to answer objections.
 
-Never generate random angles when validated patterns already exist.
+The objective is to understand why they exist.
 
 ---
 
-# Angle Classification
+# Objection Classification
 
-Every angle must include:
+Every objection must include:
 
 Product
 
@@ -24,67 +24,55 @@ Market
 
 Avatar
 
-Awareness Level
+Buying Stage
 
-Primary Emotion
+Frequency
 
-Stage of Funnel
+Severity
 
-Commercial Score
+Commercial Impact
 
 Evidence Level
 
----
-
-# Angle Categories
-
-Identity
-
-Transformation
-
-Problem
-
-Enemy
-
-Mechanism
-
-Lifestyle
-
-Routine
-
-Authority
-
-Social Proof
-
-Comparison
-
-Fear
-
-Hope
-
-Contrarian
-
-Curiosity
-
-Education
-
 Status
 
-Performance
+---
 
-Longevity
+# Objection Categories
+
+Trust
+
+Price
+
+Product
+
+Competition
+
+Safety
+
+Time
 
 Convenience
 
-Cost Saving
+Identity
+
+Past Experience
+
+Social Proof
+
+Authority
+
+Need
+
+Urgency
 
 ---
 
-# Angle Template
+# Objection Template
 
-## Angle ID
+## Objection ID
 
-ANGLE-001
+OBJ-001
 
 ---
 
@@ -96,81 +84,85 @@ Shilajit
 
 Category
 
-Energy
+Trust
 
 ---
 
-Type
+Buying Stage
 
-Identity
-
----
-
-Awareness
-
-Problem Aware
+Product Aware
 
 ---
 
-Core Angle
+Objection
 
-You don't need more motivation.
-
-You need your energy back.
+"I've already tried supplements and none worked."
 
 ---
 
-Supporting Narrative
+Root Cause
 
-Most people blame themselves.
+Previous bad experiences.
 
-The real problem is running every day with low energy.
+Low trust.
 
----
-
-Primary Emotion
-
-Hope
+High skepticism.
 
 ---
 
-Customer Belief
+Hidden Fear
 
-"I've changed."
+Losing money again.
+
+Feeling disappointed.
+
+Looking foolish.
+
+---
+
+Underlying Belief
+
+"Supplements are all the same."
 
 ---
 
 Desired Belief
 
-"I can become myself again."
+"This product is genuinely different."
 
 ---
 
-Best Creative Formats
+Recommended Response Strategy
 
-UGC
+Show customer stories.
 
-Talking Head
+Explain the mechanism simply.
 
-Morning Routine
+Reduce pressure.
 
-Podcast Clip
+Provide guarantees.
 
-Editorial
-
----
-
-Best Hooks
-
-"I forgot what it feels like to wake up energized."
-
-"I thought I was just getting older."
+Increase transparency.
 
 ---
 
-Commercial Score
+Best Trust Elements
 
-9.5 / 10
+Real testimonials.
+
+Third-party testing.
+
+Transparent sourcing.
+
+Money-back guarantee.
+
+Educational content.
+
+---
+
+Commercial Severity
+
+9 / 10
 
 ---
 
@@ -182,181 +174,163 @@ Validated
 
 Status
 
-Winning
+Active
 
 ---
 
-# Angle Library
+# Objection Library
+
+## Trust
+
+Will this actually work?
+
+Is this another scam?
+
+Why haven't I heard about it before?
+
+How do I know it's real?
+
+---
+
+## Price
+
+Why is it expensive?
+
+Can I find something cheaper?
+
+Is it worth it?
+
+---
+
+## Safety
+
+Is it safe?
+
+Are there side effects?
+
+Can I take it every day?
+
+---
+
+## Product
+
+How long until I notice results?
+
+How should I take it?
+
+What makes this different?
+
+---
+
+## Competition
+
+Why not buy another brand?
+
+Why not drink coffee instead?
+
+Why not just sleep more?
+
+---
 
 ## Identity
 
-Become the person you used to be.
+Maybe this isn't for me.
 
-Recover your confidence.
+I'm probably too old.
 
-Feel like yourself again.
-
-Build discipline through daily habits.
+Nothing works on my body.
 
 ---
 
-## Transformation
+## Time
 
-Energy changes everything.
+How long do I need to take it?
 
-Better mornings create better lives.
-
-Consistency beats motivation.
-
-Small daily habits create massive change.
+Will I have to buy forever?
 
 ---
 
-## Problem
+# Trust Building Matrix
 
-Coffee isn't solving the problem.
+Objection
 
-You're surviving instead of living.
+↓
 
-Low energy steals your potential.
+Evidence Needed
 
-Brain fog isn't normal.
+↓
 
----
+Creative Format
 
-## Enemy
+↓
 
-Burnout.
+Recommended Messaging
 
-Coffee dependence.
+↓
 
-Modern lifestyle.
-
-Poor sleep.
-
-Stress.
-
-Sugar crashes.
-
----
-
-## Lifestyle
-
-Morning routine.
-
-High performers.
-
-Entrepreneurs.
-
-Parents.
-
-Healthy aging.
-
-Gym lifestyle.
-
----
-
-## Contrarian
-
-Energy isn't your real problem.
-
-Supplements don't change lives.
-
-Habits do.
-
-Stop chasing motivation.
-
----
-
-## Authority
-
-Science explained simply.
-
-Daily wellness backed by research.
-
-Traditional wisdom supported by modern testing.
-
-Transparent ingredients.
-
----
-
-## Social Proof
-
-Thousands of customers.
-
-Daily testimonials.
-
-Morning transformations.
-
-Customer journeys.
+Call To Action
 
 ---
 
 # Ranking Rules
 
-Prioritize angles that:
+Prioritize objections that:
 
-Sell identity.
+Block purchases.
 
-Increase emotional connection.
+Appear repeatedly.
 
-Differentiate the product.
+Increase CPA.
 
-Support multiple creatives.
+Reduce trust.
 
-Generate testing opportunities.
-
-Scale across platforms.
+Delay buying decisions.
 
 ---
 
-# Evaluation Criteria
+# Objection Resolution Methods
 
-Clarity
+Education
 
-Novelty
+Proof
 
-Emotion
+Testimonials
 
-Commercial Potential
+Authority
 
-Scalability
+Guarantees
 
-Trust
+Transparency
 
-Differentiation
+Comparison
 
-Creative Potential
+Demonstration
 
-Buying Intent
+Storytelling
 
-Longevity
-
----
-
-Calculate
-
-Angle Score
+Routine
 
 ---
 
 # Knowledge Updates
 
-Whenever an angle succeeds record:
+Whenever an objection appears:
 
-CTR
+Record:
 
-CPA
-
-ROAS
+Platform
 
 Product
 
-Audience
-
 Creative
 
-Offer
+Frequency
+
+Customer Quote
+
+Resolution
+
+Outcome
 
 Learning
 
@@ -370,32 +344,22 @@ Never overwrite.
 
 # Failure Conditions
 
-Reject angles that:
+Never ignore objections.
 
-Only describe product features.
+Never invent objections.
 
-Can apply to any product.
+Never answer objections with hype.
 
-Require unrealistic claims.
+Never minimize customer concerns.
 
-Depend on hype.
-
-Ignore customer psychology.
-
-Lack emotional transformation.
+Never use pressure instead of trust.
 
 ---
 
 # Success Criteria
 
-A successful angle:
+A successful objection knowledge base allows Creative Strategist AI to anticipate skepticism before it appears.
 
-Changes customer perception.
+Trust becomes proactive instead of reactive.
 
-Creates emotional resonance.
-
-Supports multiple creatives.
-
-Produces reusable messaging.
-
-Becomes part of the permanent strategic knowledge base.
+Every objection becomes an opportunity to strengthen the strategy.
